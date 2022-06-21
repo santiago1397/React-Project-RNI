@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Routes, Route, Navigate} from 'react-router-dom';
+import { HashRouter, Routes, Route, Navigate} from 'react-router-dom';
 import '../App.css';
 import NotFound from './NotFound'
 import Table from './Table'
@@ -14,7 +14,7 @@ function App() {
 
 
   return (
-    <BrowserRouter >
+    <HashRouter >
       <AuthProvider>
         <Routes>
           <Route exact path="/" element={<Navigate to='Login'/>} />
@@ -28,7 +28,7 @@ function App() {
           <Route path="*" element={<NotFound/>} />
         </Routes>
       </AuthProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
