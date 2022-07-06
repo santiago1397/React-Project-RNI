@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Project-RNI/static/css/main.14efe748.css",
-    "main.js": "/React-Project-RNI/static/js/main.b9b849df.js",
+    "main.css": "/React-Project-RNI/static/css/main.0ae97316.css",
+    "main.js": "/React-Project-RNI/static/js/main.f40d9a95.js",
     "static/media/logoRNI.png": "/React-Project-RNI/static/media/logoRNI.575de01d26e375efff59.png",
     "index.html": "/React-Project-RNI/index.html",
-    "main.14efe748.css.map": "/React-Project-RNI/static/css/main.14efe748.css.map",
-    "main.b9b849df.js.map": "/React-Project-RNI/static/js/main.b9b849df.js.map"
+    "main.0ae97316.css.map": "/React-Project-RNI/static/css/main.0ae97316.css.map",
+    "main.f40d9a95.js.map": "/React-Project-RNI/static/js/main.f40d9a95.js.map"
   },
   "entrypoints": [
-    "static/css/main.14efe748.css",
-    "static/js/main.b9b849df.js"
+    "static/css/main.0ae97316.css",
+    "static/js/main.f40d9a95.js"
   ]
 }
