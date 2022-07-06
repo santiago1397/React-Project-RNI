@@ -23,7 +23,7 @@ export default function Table() {
   const [innovators, setInnovators] = useState([])
   const innoCollectionRef = collection(db, "innovators")
 
-  const [toggleNav, setToggleNav] = useState(true)
+  const [toggleNav, setToggleNav] = useState(false)
 
   //Executed once  
   useEffect(() => {

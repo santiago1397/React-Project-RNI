@@ -43,7 +43,7 @@ export default function Signup() {
                 <div className="animation-container">
                     <input className="form-input" ref={emailRef} type="text" name="name" id="name" autoComplete="off"  required/> 
                     <label name="name" className= "label-name">
-                        Usuario
+                        Email
                     </label>  
                 </div>
                 <div className="animation-container">

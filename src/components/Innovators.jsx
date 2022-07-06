@@ -445,7 +445,7 @@ export default function Innovators({ innovators, add, addMultiple, toggleNav }) 
 
                                     <div style={{ paddingTop: '10px' }}>
                                         <div style={{ margin: '10px', padding: '7px', border: '1px solid #8cb2d0', borderRadius: '5px' }}>
-                                            <b>Descripción:</b><p>{selectedInnovator.descripcion}</p>
+                                            <b>Descripción:</b><p>{selectedInnovator.descripción}</p>
                                         </div>
                                         {selectedInnovator.procesoProductivo && <div style={{ margin: '10px', padding: '7px', border: '1px solid #8cb2d0', borderRadius: '5px' }}>
                                             <b>Proceso Productivo:</b><p>{selectedInnovator.procesoProductivo}</p>
